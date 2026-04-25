@@ -1,3 +1,8 @@
+<<<<<<< Updated upstream
 story 22 
 aesrdtfyguhiserdt fygu
 story completed
+=======
+story 21
+sdfgyfhuijorfbnomdfghfi
+story 21 completed
